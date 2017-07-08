@@ -1,0 +1,30 @@
+/* microposts */
+
+.microposts {
+
+    padding: 5px 0;
+    
+  .user {
+    margin-top: 3em;
+    padding-top: 0;
+  }
+  .content {
+    display: block;
+    margin-left: 60px;
+    img {
+      display: block;
+      padding: 5px 0;
+    }
+  }
+  .timestamp {
+color: grey;
+display: block;
+    margin-left: 60px;
+  }
+  .gravatar {
+
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+}
